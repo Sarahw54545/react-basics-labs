@@ -1,3 +1,3 @@
 # react-basics-labs
 
-|Web App Lab 01
+Web App Lab 01
