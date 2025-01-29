@@ -51,7 +51,7 @@ function App() {
     setFormState(form);
   }
 
-  console.log(formState);
+  // console.log(formState);
 
   const formSubmitHandler = (event) => {
     event.preventDefault();
