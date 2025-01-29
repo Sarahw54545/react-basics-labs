@@ -47,6 +47,8 @@ div {
 
 .priority {
   font-weight: bold;
+  border-radius: 5px;
+  padding: 5px;
 };
 
 button {
@@ -60,14 +62,30 @@ button {
 }
 
 .doneButton {
+  border: none;
+  font-size: 0.8em;
+  margin: 4px 6px;
+  width: 50px;
+  height: 25px;
+  border-radius: 3px;
   position: absolute;
+  padding: 5px;
+  font-style: italic;
   bottom: 5px;
   left: 5px;
   color: green;
 }
 
 .deleteButton {
+  border: none;
+  font-size: 0.8em;
+  margin: 4px 6px;
+  width: 50px;
+  height: 25px;
+  border-radius: 3px;
   position: absolute;
+  padding: 5px;
+  font-style: italic;
   bottom: 5px;
   right: 5px;
   color: red;
